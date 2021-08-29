@@ -11,7 +11,7 @@ The goal of this project is to provide minimalistic django project template that
 First clone the repository from Github and switch to the new directory:
 
     $ git clone git@github.com/bilaltahir2178/vanilla-todo.git
-    $ cd vanilla-todos
+    $ cd vanilla-todo
     
 Activate the virtualenv for your project.
     
